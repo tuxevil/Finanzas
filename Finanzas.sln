@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Finanzas\", "..\..\WebSites\Finanzas\", "{4C067DDC-D6DF-4E21-8A7A-49CD790C47C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Finanzas"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Finanzas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Finanzas\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Finanzas"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Finanzas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Finanzas\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49299"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C067DDC-D6DF-4E21-8A7A-49CD790C47C8}.Debug|.NET.ActiveCfg = Debug|.NET
+		{4C067DDC-D6DF-4E21-8A7A-49CD790C47C8}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
